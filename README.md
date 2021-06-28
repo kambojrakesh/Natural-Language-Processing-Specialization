@@ -27,3 +27,5 @@ Good to Read:-
 https://www.coursera.org/learn/attention-models-in-nlp/supplement/vyEkS/training-an-nmt-with-attention
 
 https://githubmemory.com/repo/MohamedBadr0/Coursera-Deep-Learning
+
+https://www.coursera.org/learn/attention-models-in-nlp/programming/dwxSE/transformer-summarizer/lab
