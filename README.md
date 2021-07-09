@@ -29,3 +29,5 @@ https://www.coursera.org/learn/attention-models-in-nlp/supplement/vyEkS/training
 https://githubmemory.com/repo/MohamedBadr0/Coursera-Deep-Learning
 
 https://www.coursera.org/learn/attention-models-in-nlp/programming/dwxSE/transformer-summarizer/lab
+
+https://www.youtube.com/watch?v=x81AbkppJA4
