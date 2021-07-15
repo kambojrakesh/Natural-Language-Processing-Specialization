@@ -14,3 +14,17 @@ https://towardsdatascience.com/10-stages-of-a-machine-learning-project-in-2020-a
 https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/
 https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/
 https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices
+
+
+
+-------
+
+good to go:-
+
+https://www.youtube.com/watch?v=vjjPrfmxXdA
+
+--------
+
+https://www.kdnuggets.com/2020/05/5-concepts-gradient-descent-cost-function.html
+
+https://towardsdatascience.com/cost-functions-of-regression-and-its-optimization-techniques-in-machine-learning-2f5931cd33f1
