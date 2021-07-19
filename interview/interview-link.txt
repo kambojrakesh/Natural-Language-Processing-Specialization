@@ -28,3 +28,9 @@ https://www.youtube.com/watch?v=vjjPrfmxXdA
 https://www.kdnuggets.com/2020/05/5-concepts-gradient-descent-cost-function.html
 
 https://towardsdatascience.com/cost-functions-of-regression-and-its-optimization-techniques-in-machine-learning-2f5931cd33f1
+
+
+
+
+
+
