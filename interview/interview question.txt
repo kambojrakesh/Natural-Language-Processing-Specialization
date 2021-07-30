@@ -12,3 +12,11 @@ EXL
 TF-IDF implementation
 RNN vs CNN
 ball sorting based on wieght
+
+
+-----
+
+classification metrics
+general metrics
+modelling scenarios
+ 

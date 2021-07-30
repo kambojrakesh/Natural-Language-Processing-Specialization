@@ -1,0 +1,6 @@
+TensorMatics provides a collection of apps under TensorMatics software suite:-
+1) Data Collection via web scraping in datacollectionhub
+2) Data Labelling for deep learning with Labellerr(checkout https://www.labellerr.com)
+3) Data Management via Data lakes, data warehouses and data mart and ETL on Big data technologies while integration with third party providers
+4) Machine Learning and Big Data Analytics interface along with jupyterhub support
+5) Presentation Layer support via BI tools like Tableau, PowerBI, Looker, D3js etc
