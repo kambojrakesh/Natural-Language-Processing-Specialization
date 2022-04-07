@@ -1,7 +1,8 @@
 # Natural-Language-Processing-Specialization
+Regex:-
 
-
-
+https://regex101.com/
+-----------------------
 
 Good to cover :-
 
@@ -41,3 +42,4 @@ https://rubikscode.net/2021/07/19/top-23-best-public-datasets-for-practicing-mac
 https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=7726s
 https://www.youtube.com/watch?v=X2vAabgKiuM&t=1240s
 https://courses.analyticsvidhya.com/courses/take/getting-started-with-nlp/lessons/15533271-overview-of-the-course
+https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
