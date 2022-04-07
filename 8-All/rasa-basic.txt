@@ -1,0 +1,34 @@
+https://www.youtube.com/watch?v=UyAfmAZU_WI
+rasa data convert nlu -f yaml --data training_dataset_1649216595.json --out nlu.yml
+chitot
+
+
+
+--------------Topic modelling:-------------------
+
+https://www.kaggle.com/code/rcushen/topic-modelling-with-lsa-and-lda/notebook
+
+
+
+-------------------t-SNE-----------
+
+https://www.youtube.com/watch?v=NEaUSP4YerM
+
+
+
+-------------PLSA------------
+
+https://www.youtube.com/watch?v=vtadpVDr1hM
+
+
+
+------------------------------SVD------------
+https://www.youtube.com/watch?v=UyAfmAZU_WI
+
+
+
+---------Artificial Intelligence - All in One ( Check this)------------------
+
+https://www.youtube.com/watch?v=Uqs0GewlMkQ&list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt
+
+https://www.youtube.com/watch?v=vtadpVDr1hM&list=RDCMUC5zx8Owijmv-bbhAK6Z9apg&start_radio=1

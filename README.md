@@ -43,3 +43,8 @@ https://www.youtube.com/watch?v=dIUTsFT2MeQ&t=7726s
 https://www.youtube.com/watch?v=X2vAabgKiuM&t=1240s
 https://courses.analyticsvidhya.com/courses/take/getting-started-with-nlp/lessons/15533271-overview-of-the-course
 https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
+
+
+----------------- python geeks-----------------
+
+https://www.geeksforgeeks.org/python-map-function/
