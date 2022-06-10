@@ -63,3 +63,9 @@ tokens=[d for d in doc if(d.is_stop==False | d.is_punct==False | d.is_space == F
 word_freq = pd.Series([token.text for token in tokens]).value_counts() -- series with uniques word
 
 combined_tweets=' '.join(df.text.values) -- joining txt by space
+
+
+--------------------
+
+from spacy.matcher import Matcher
+
